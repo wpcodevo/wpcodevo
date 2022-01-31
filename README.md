@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Ziddah Edem Kwame</h1>
 <h3 align="center">I'm a frontend and backend ethusiast</h3>
-<img align="right" width="200" alt="wpcodevo" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif" />
+<img align="right" width="500" alt="wpcodevo" src="https://github.com/wpcodevo/wpcodevo/blob/main/typing.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wpcodevo&label=Profile%20views&color=0e75b6&style=flat" alt="wpcodevo" /> </p>
 
