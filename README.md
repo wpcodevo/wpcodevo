@@ -12,13 +12,18 @@
 
 - 📝 I regularly write articles on [https://codevoweb.com](https://codevoweb.com)
 
-- 💬 Ask me about **NodeJS,Python,ReactJS, MongoDB,MySQL,Docker,TypeScript**
+- 💬 Ask me about **NodeJS, Python, ReactJS, MongoDB, MySQL, Docker, TypeScript**
 
 - 📫 How to reach me **contact@codevoweb.com**
 
 - ⚡ Fun fact **I am funny**
 
-### Blogs posts
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+### 📕 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
