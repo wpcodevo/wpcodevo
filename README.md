@@ -21,7 +21,6 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-
 - [Responsive Portfolio Website With HTML, CSS And JavaScript &lpar;Color Picker&rpar;](https://www.youtube.com/watch?v=jDjVS85DKRo)
 - [Responsive Fashion Ecommerce Website HTML, CSS, SASS and JavaScript](https://www.youtube.com/watch?v=WPU8eC6UNFo)
 - [Responsive Food Ordering Website with HTML, SCSS, CSS and JavaScript](https://www.youtube.com/watch?v=HgjaligWyYQ)
