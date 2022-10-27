@@ -21,6 +21,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Responsive Portfolio Website With HTML, CSS And JavaScript &lpar;Color Picker&rpar;](https://www.youtube.com/watch?v=jDjVS85DKRo)
+- [Responsive Fashion Ecommerce Website HTML, CSS, SASS and JavaScript](https://www.youtube.com/watch?v=WPU8eC6UNFo)
+- [Responsive Food Ordering Website with HTML, SCSS, CSS and JavaScript](https://www.youtube.com/watch?v=HgjaligWyYQ)
+- [Build Blog With Vanilla Javascript And Contentful CMS Part 2](https://www.youtube.com/watch?v=hygKZyCdkLE)
+- [Build Blog With Vanilla Javascript And Contentful CMS Part 1](https://www.youtube.com/watch?v=W8gjSX6Jbkg)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Connect with me:</h3>
