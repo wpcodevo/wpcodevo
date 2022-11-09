@@ -31,11 +31,11 @@
 ### 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Build a CRUD App with FastAPI and PyMongo](https://codevoweb.com/build-a-crud-app-with-fastapi-and-pymongo/)
 - [Build a Full Stack tRPC CRUD App with Next.js](https://codevoweb.com/build-a-fullstack-trpc-crud-app-with-nextjs/)
 - [Build a FullStack tRPC CRUD App with TypeScript](https://codevoweb.com/build-a-fullstack-trpc-crud-app-with-typescript/)
 - [How To Setup and Use Prisma in Deno](https://codevoweb.com/how-to-setup-and-use-prisma-in-deno/)
 - [How To Upload Single and Multiple Files in Golang](https://codevoweb.com/how-to-upload-single-and-multiple-files-in-golang/)
-- [Two-factor Authentication &lpar;2FA&rpar; in FastAPI and Python](https://codevoweb.com/two-factor-authentication-2fa-in-fastapi-and-python/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
