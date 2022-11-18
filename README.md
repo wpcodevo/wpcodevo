@@ -31,11 +31,11 @@
 ### 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Deno – Refresh JWT Access Token with Private and Public Keys](https://codevoweb.com/deno-jwt-authentication-with-private-and-public-keys/)
 - [Build a CRUD App with FastAPI and SQLAlchemy](https://codevoweb.com/build-a-crud-app-with-fastapi-and-sqlalchemy/)
 - [Build a CRUD App with FastAPI and PyMongo](https://codevoweb.com/build-a-crud-app-with-fastapi-and-pymongo/)
 - [Build a Full Stack tRPC CRUD App with Next.js](https://codevoweb.com/build-a-fullstack-trpc-crud-app-with-nextjs/)
 - [Build a FullStack tRPC CRUD App with TypeScript](https://codevoweb.com/build-a-fullstack-trpc-crud-app-with-typescript/)
-- [How To Setup and Use Prisma in Deno](https://codevoweb.com/how-to-setup-and-use-prisma-in-deno/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
