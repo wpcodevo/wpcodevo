@@ -31,11 +31,11 @@
 ### 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Build a React.js CRUD App with JavaScript Fetch API](https://codevoweb.com/build-a-reactjs-crud-app-with-javascript-fetch-api/)
 - [Build a React.js CRUD App using a RESTful API](https://codevoweb.com/build-a-reactjs-crud-app-using-a-restful-api/)
 - [Deno – Refresh JWT Access Token with Private and Public Keys](https://codevoweb.com/deno-jwt-authentication-with-private-and-public-keys/)
 - [Build a CRUD App with FastAPI and SQLAlchemy](https://codevoweb.com/build-a-crud-app-with-fastapi-and-sqlalchemy/)
 - [Build a CRUD App with FastAPI and PyMongo](https://codevoweb.com/build-a-crud-app-with-fastapi-and-pymongo/)
-- [Build a Full Stack tRPC CRUD App with Next.js](https://codevoweb.com/build-a-fullstack-trpc-crud-app-with-nextjs/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
