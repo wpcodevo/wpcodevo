@@ -31,11 +31,11 @@
 ### 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Build CRUD API with Django REST framework](https://codevoweb.com/build-crud-api-with-django-rest-framework/)
 - [Build CRUD API with Deno](https://codevoweb.com/build-crud-api-with-deno/)
 - [Build a React.js CRUD App with JavaScript Fetch API](https://codevoweb.com/build-a-reactjs-crud-app-with-javascript-fetch-api/)
 - [Build a React.js CRUD App using a RESTful API](https://codevoweb.com/build-a-reactjs-crud-app-using-a-restful-api/)
 - [Deno – Refresh JWT Access Token with Private and Public Keys](https://codevoweb.com/deno-jwt-authentication-with-private-and-public-keys/)
-- [Build a CRUD App with FastAPI and SQLAlchemy](https://codevoweb.com/build-a-crud-app-with-fastapi-and-sqlalchemy/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
