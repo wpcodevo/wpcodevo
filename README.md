@@ -31,11 +31,11 @@
 ### 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Deno – JWT Access and Refresh Tokens Authentication](https://codevoweb.com/deno-jwt-access-and-refresh-tokens-authentication/)
 - [Django – Implement &lpar;2FA&rpar; Two-Factor Authentication](https://codevoweb.com/django-implement-2fa-two-factor-authentication/)
 - [Build a CRUD App with React.js and Redux Toolkit](https://codevoweb.com/build-crud-app-with-reactjs-and-redux-toolkit/)
 - [Build CRUD API with Django REST framework](https://codevoweb.com/build-crud-api-with-django-rest-framework/)
 - [Build CRUD API with Deno](https://codevoweb.com/build-crud-api-with-deno/)
-- [Build a React.js CRUD App with JavaScript Fetch API](https://codevoweb.com/build-a-reactjs-crud-app-with-javascript-fetch-api/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
