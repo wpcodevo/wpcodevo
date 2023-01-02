@@ -31,11 +31,11 @@
 ### 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 10 Best VS Code Extensions for PHP Developers](https://codevoweb.com/top-10-best-vs-code-extensions-for-php-developers/)
 - [Deno – JWT Access and Refresh Tokens Authentication](https://codevoweb.com/deno-jwt-access-and-refresh-tokens-authentication/)
 - [Django – Implement &lpar;2FA&rpar; Two-Factor Authentication](https://codevoweb.com/django-implement-2fa-two-factor-authentication/)
 - [Build a CRUD App with React.js and Redux Toolkit](https://codevoweb.com/build-crud-app-with-reactjs-and-redux-toolkit/)
 - [Build CRUD API with Django REST framework](https://codevoweb.com/build-crud-api-with-django-rest-framework/)
-- [Build CRUD API with Deno](https://codevoweb.com/build-crud-api-with-deno/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
