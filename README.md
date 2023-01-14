@@ -31,11 +31,11 @@
 ### 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Build a Simple API with Rust and Actix Web](https://codevoweb.com/build-a-simple-api-with-rust-and-actix-web/)
 - [Build a Simple API with Rust and Rocket](https://codevoweb.com/build-a-simple-api-with-rust-and-rocket/)
 - [Build a Simple API in Rust](https://codevoweb.com/build-a-simple-api-in-rust/)
 - [Top 10 Best VS Code Extensions for Laravel Developers](https://codevoweb.com/top-10-vscode-extensions-for-laravel-developers/)
 - [Build a CRUD API with Node.js and Sequelize](https://codevoweb.com/build-a-crud-api-with-nodejs-and-sequelize/)
-- [Top 10 Best VS Code Extensions for PHP Developers](https://codevoweb.com/top-10-best-vs-code-extensions-for-php-developers/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
