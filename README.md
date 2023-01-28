@@ -31,11 +31,11 @@
 ### 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Implement GitHub OAuth in Node.js](https://codevoweb.com/how-to-implement-github-oauth-in-nodejs/)
 - [Rust – Build a CRUD API with SQLX and PostgreSQL](https://codevoweb.com/rust-build-a-crud-api-with-sqlx-and-postgresql/)
 - [How to Implement Google OAuth2 in Node.js](https://codevoweb.com/how-to-implement-google-oauth2-in-nodejs/)
 - [How to Implement GitHub OAuth in React.js](https://codevoweb.com/how-to-implement-github-oauth-in-reactjs/)
 - [How to Implement Google OAuth2 in React.js](https://codevoweb.com/how-to-implement-google-oauth2-in-reactjs/)
-- [Build a CRUD API with Rust and MongoDB](https://codevoweb.com/build-a-crud-api-with-rust-and-mongodb/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
