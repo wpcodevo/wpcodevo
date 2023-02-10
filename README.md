@@ -31,11 +31,11 @@
 ### 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Properly Refresh JWTs for Authentication in Golang](https://codevoweb.com/how-to-properly-use-jwt-for-authentication-in-golang/)
 - [Rust – JWT Authentication with Actix Web](https://codevoweb.com/rust-jwt-authentication-with-actix-web/)
 - [How to Implement Google OAuth2 in Golang](https://codevoweb.com/how-to-implement-google-oauth2-in-golang/)
 - [Golang, GORM, &amp; Fiber: JWT Authentication](https://codevoweb.com/golang-gorm-fiber-jwt-authentication/)
 - [Create CRUD API in Golang using Fiber and GORM](https://codevoweb.com/create-crud-api-in-golang-using-fiber-and-gorm/)
-- [How to Implement GitHub OAuth in Node.js](https://codevoweb.com/how-to-implement-github-oauth-in-nodejs/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
