@@ -31,11 +31,11 @@
 ### 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Best VS Code Extensions to Unlock the Power of VS Code](https://codevoweb.com/best-vscode-extensions/)
 - [Frontend App with Rust and Yew.rs: User SignUp and Login](https://codevoweb.com/frontend-app-with-rust-and-yew-user-signup-and-login/)
 - [How to Implement Google OAuth2 in Rust](https://codevoweb.com/how-to-implement-google-oauth2-in-rust/)
 - [How to Properly Refresh JWTs for Authentication in Golang](https://codevoweb.com/how-to-properly-use-jwt-for-authentication-in-golang/)
 - [Rust – JWT Authentication with Actix Web](https://codevoweb.com/rust-jwt-authentication-with-actix-web/)
-- [How to Implement Google OAuth2 in Golang](https://codevoweb.com/how-to-implement-google-oauth2-in-golang/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
