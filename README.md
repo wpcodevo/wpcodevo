@@ -31,11 +31,11 @@
 ### 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Build a Frontend Web App in Rust using the Yew.rs Framework](https://codevoweb.com/build-frontend-web-app-in-rust-using-yew-framework/)
 - [Rust &amp; Actix Web – Build a CRUD API with SQLX and MySQL](https://codevoweb.com/rust-actix-web-build-crud-api-with-sqlx-and-mysql/)
 - [Top 10 VS Code Extensions for JavaScript Developers](https://codevoweb.com/top-10-vscode-extensions-for-javascript-developers/)
 - [Top 10 VS Code Extensions for HTML, CSS, &amp; SASS Developers](https://codevoweb.com/top-10-vscode-extensions-for-html-css-sass-developers/)
 - [Best VS Code Extensions to Unlock the Power of VS Code](https://codevoweb.com/best-vscode-extensions/)
-- [Frontend App with Rust and Yew.rs: User SignUp and Login](https://codevoweb.com/frontend-app-with-rust-and-yew-user-signup-and-login/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
