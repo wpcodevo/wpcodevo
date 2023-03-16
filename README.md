@@ -31,11 +31,11 @@
 ### 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rust and Yew.rs Frontend: JWT Access and Refresh Tokens](https://codevoweb.com/rust-yew-frontend-jwt-access-and-refresh-tokens/)
 - [Rust and Actix Web – JWT Access and Refresh Tokens](https://codevoweb.com/rust-actix-web-jwt-access-and-refresh-tokens/)
 - [How to Setup and Run TypeScript in VS Code with Debugging](https://codevoweb.com/setup-and-run-typescript-in-vscode-with-debugging/)
 - [Build a Full Stack App with Rust, Yew.rs and Actix Web](https://codevoweb.com/build-full-stack-app-with-rust-yew-and-actix-web/)
 - [Build a Frontend Web App in Rust using the Yew.rs Framework](https://codevoweb.com/build-frontend-web-app-in-rust-using-yew-framework/)
-- [Rust &amp; Actix Web – Build a CRUD API with SQLX and MySQL](https://codevoweb.com/rust-actix-web-build-crud-api-with-sqlx-and-mysql/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
