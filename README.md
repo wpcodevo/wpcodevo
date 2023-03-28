@@ -31,11 +31,11 @@
 ### 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Build a Simple API in Golang using Fiber and SQLite](https://codevoweb.com/build-a-simple-api-in-golang-using-fiber-and-sqlite/)
 - [Golang CRUD API Example with GORM and MySQL](https://codevoweb.com/golang-crud-api-example-with-gorm-and-mysql/)
 - [Setup and Use NextAuth.js in Next.js 13 App Directory](https://codevoweb.com/setup-and-use-nextauth-in-nextjs-13-app-directory/)
 - [How to Setup React Context API in Next.js 13 App Directory](https://codevoweb.com/setup-react-context-api-in-nextjs-13-app-directory/)
 - [How to Setup React Query in Next.js 13 App Directory](https://codevoweb.com/setup-react-query-in-nextjs-13-app-directory/)
-- [How to Setup Redux Toolkit in Next.js 13 App Directory](https://codevoweb.com/setup-redux-toolkit-in-nextjs-13-app-directory/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
