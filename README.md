@@ -31,11 +31,11 @@
 ### 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [JWT Authentication in Rust using Axum Framework](https://codevoweb.com/jwt-authentication-in-rust-using-axum-framework/)
 - [Setup tRPC Server and Client in Next.js 13 App Directory](https://codevoweb.com/setup-trpc-server-and-client-in-nextjs-13-app-directory/)
 - [Rust CRUD API Example with Axum and PostgreSQL](https://codevoweb.com/rust-crud-api-example-with-axum-and-postgresql/)
 - [Create a Simple API in Rust using the Axum Framework](https://codevoweb.com/create-a-simple-api-in-rust-using-the-axum-framework/)
 - [Build a Simple API in Golang using Fiber and SQLite](https://codevoweb.com/build-a-simple-api-in-golang-using-fiber-and-sqlite/)
-- [Golang CRUD API Example with GORM and MySQL](https://codevoweb.com/golang-crud-api-example-with-gorm-and-mysql/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
