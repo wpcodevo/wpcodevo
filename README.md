@@ -31,11 +31,11 @@
 ### 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rust CRUD API Example with Axum Framework and MySQL](https://codevoweb.com/rust-crud-api-example-with-axum-framework-and-mysql/)
 - [Rust and Axum Framework: JWT Access and Refresh Tokens](https://codevoweb.com/rust-and-axum-jwt-access-and-refresh-tokens/)
 - [JWT Authentication in Rust using Axum Framework](https://codevoweb.com/jwt-authentication-in-rust-using-axum-framework/)
 - [Setup tRPC Server and Client in Next.js 13 App Directory](https://codevoweb.com/setup-trpc-server-and-client-in-nextjs-13-app-directory/)
 - [Rust CRUD API Example with Axum and PostgreSQL](https://codevoweb.com/rust-crud-api-example-with-axum-and-postgresql/)
-- [Create a Simple API in Rust using the Axum Framework](https://codevoweb.com/create-a-simple-api-in-rust-using-the-axum-framework/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
