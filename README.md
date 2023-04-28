@@ -31,11 +31,11 @@
 ### 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Setup Prisma ORM in Next.js 13 App Directory](https://codevoweb.com/how-to-setup-prisma-orm-in-nextjs-13-app-directory/)
 - [RESTful API in Rust using Axum Framework and MongoDB](https://codevoweb.com/restful-api-in-rust-using-axum-framework-and-mongodb/)
 - [Rust CRUD API Example with Axum Framework and MySQL](https://codevoweb.com/rust-crud-api-example-with-axum-framework-and-mysql/)
 - [Rust and Axum Framework: JWT Access and Refresh Tokens](https://codevoweb.com/rust-and-axum-jwt-access-and-refresh-tokens/)
 - [JWT Authentication in Rust using Axum Framework](https://codevoweb.com/jwt-authentication-in-rust-using-axum-framework/)
-- [Setup tRPC Server and Client in Next.js 13 App Directory](https://codevoweb.com/setup-trpc-server-and-client-in-nextjs-13-app-directory/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
