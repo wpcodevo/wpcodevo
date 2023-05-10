@@ -31,11 +31,11 @@
 ### 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Implement Google and GitHub OAuth2 in Rust Frontend App](https://codevoweb.com/implement-google-and-github-oauth2-in-rust-frontend-app/)
 - [Next.js – Add Google and GitHub OAuth2 using NextAuth.js](https://codevoweb.com/nextjs-add-google-and-github-oauth2-using-nextauth-js/)
 - [Next.js – Use Custom Login and SignUp Pages for NextAuth.js](https://codevoweb.com/nextjs-use-custom-login-and-signup-pages-for-nextauth-js/)
 - [Rust – How to Generate and Verify &lpar;JWTs&rpar; JSON Web Tokens](https://codevoweb.com/rust-how-to-generate-and-verify-jwts-json-web-tokens/)
 - [Build a Simple API in Next.js 13 App Directory](https://codevoweb.com/build-a-simple-api-in-next-js-13-app-directory/)
-- [How to Setup Prisma ORM in Next.js 13 App Directory](https://codevoweb.com/how-to-setup-prisma-orm-in-nextjs-13-app-directory/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
