@@ -31,11 +31,11 @@
 ### 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Send HTML Emails in Rust via SMTP](https://codevoweb.com/how-to-send-html-emails-in-rust-via-smtp/)
 - [User Registration and Login in Next.js 13 App Directory](https://codevoweb.com/user-registration-login-in-nextjs-13-app-directory/)
 - [JWT Authentication in Next.js 13 API Route Handlers](https://codevoweb.com/jwt-authentication-in-nextjs-13-api-route-handlers/)
 - [How to Setup and Use Apollo Client in Next.js 13 App Directory](https://codevoweb.com/setup-and-use-apollo-client-in-nextjs-13-app-directory/)
 - [Build a Simple Frontend App in Next.js 13 App Directory](https://codevoweb.com/build-a-simple-frontend-app-in-nextjs13-app-directory/)
-- [Implement Google and GitHub OAuth2 in Rust Frontend App](https://codevoweb.com/implement-google-and-github-oauth2-in-rust-frontend-app/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
