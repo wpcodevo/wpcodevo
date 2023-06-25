@@ -32,7 +32,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Use Flask Framework to Build a RESTful API in Python](https://codevoweb.com/use-flask-framework-to-build-a-restful-api-in-python/)
-- [How to Integrate Flask Framework with Next.js](https://codevoweb.com/how-to-integrate-flask-framework-with-nextjs/)
+- [Integrate Python Flask Framework with Next.js and Deploy](https://codevoweb.com/how-to-integrate-flask-framework-with-nextjs/)
 - [Integrate FastAPI Framework with Next.js and Deploy](https://codevoweb.com/integrate-fastapi-framework-with-nextjs-and-deploy/)
 - [How to Generate and Verify JSON Web Tokens in Node.js](https://codevoweb.com/generate-and-verify-json-web-tokens-in-nodejs/)
 - [How to Send HTML Emails in Rust via SMTP](https://codevoweb.com/how-to-send-html-emails-in-rust-via-smtp/)
