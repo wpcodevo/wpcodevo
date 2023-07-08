@@ -31,11 +31,11 @@
 ### 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Learn Next.js Server Actions and Mutations with Examples](https://codevoweb.com/learn-nextjs-server-actions-and-mutations-with-examples/)
 - [Use Flask Framework to Build a RESTful API in Python](https://codevoweb.com/use-flask-framework-to-build-a-restful-api-in-python/)
 - [Integrate Python Flask Framework with Next.js and Deploy](https://codevoweb.com/how-to-integrate-flask-framework-with-nextjs/)
 - [Integrate FastAPI Framework with Next.js and Deploy](https://codevoweb.com/integrate-fastapi-framework-with-nextjs-and-deploy/)
 - [How to Generate and Verify JSON Web Tokens in Node.js](https://codevoweb.com/generate-and-verify-json-web-tokens-in-nodejs/)
-- [How to Send HTML Emails in Rust via SMTP](https://codevoweb.com/how-to-send-html-emails-in-rust-via-smtp/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
