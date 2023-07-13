@@ -31,11 +31,11 @@
 ### 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rust API – Forgot/Reset Password with Emails](https://codevoweb.com/rust-api-forgot-reset-password-with-emails/)
 - [Rust API – User Registration and Email Verification](https://codevoweb.com/rust-api-user-registration-and-email-verification/)
 - [Learn Next.js Server Actions and Mutations with Examples](https://codevoweb.com/learn-nextjs-server-actions-and-mutations-with-examples/)
 - [Use Flask Framework to Build a RESTful API in Python](https://codevoweb.com/use-flask-framework-to-build-a-restful-api-in-python/)
 - [Integrate Python Flask Framework with Next.js and Deploy](https://codevoweb.com/how-to-integrate-flask-framework-with-nextjs/)
-- [Integrate FastAPI Framework with Next.js and Deploy](https://codevoweb.com/integrate-fastapi-framework-with-nextjs-and-deploy/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
