@@ -31,11 +31,11 @@
 ### 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a FullStack SvelteKit Application with Form Actions](https://codevoweb.com/fullstack-sveltekit-application-with-form-actions/)
 - [Build a Frontend App in SvelteKit using a RESTful API](https://codevoweb.com/build-a-frontend-app-in-sveltekit-using-a-restful-api/)
 - [How to Build a Simple API in SvelteKit](https://codevoweb.com/how-to-build-a-simple-api-in-sveltekit/)
 - [How to Setup and Use MongoDB in Next.js 13 App Directory](https://codevoweb.com/setup-and-use-mongodb-in-nextjs-13-app-directory/)
 - [Rust API – Forgot/Reset Password with Emails](https://codevoweb.com/rust-api-forgot-reset-password-with-emails/)
-- [Rust API – User Registration and Email Verification](https://codevoweb.com/rust-api-user-registration-and-email-verification/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
