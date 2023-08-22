@@ -31,11 +31,11 @@
 ### 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Add Swagger UI, Redoc and RapiDoc to a Rust API](https://codevoweb.com/add-swagger-ui-redoc-and-rapidoc-to-a-rust-api/)
 - [Building a Rust API with Unit Testing in Mind](https://codevoweb.com/building-a-rust-api-with-unit-testing-in-mind/)
 - [Implement JWT Authentication in SvelteKit API Routes](https://codevoweb.com/implement-jwt-authentication-in-sveltekit-api-routes/)
 - [Building a FullStack SvelteKit Application with Form Actions](https://codevoweb.com/fullstack-sveltekit-application-with-form-actions/)
 - [Build a Frontend App in SvelteKit using a RESTful API](https://codevoweb.com/build-a-frontend-app-in-sveltekit-using-a-restful-api/)
-- [How to Build a Simple API in SvelteKit](https://codevoweb.com/how-to-build-a-simple-api-in-sveltekit/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
