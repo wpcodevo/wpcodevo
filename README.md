@@ -31,11 +31,11 @@
 ### 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Deploy or Self-Host a Next.js Application](https://codevoweb.com/how-to-deploy-or-self-host-a-next-js-application/)
 - [Deploy Rust App on VPS with GitHub Actions and Docker](https://codevoweb.com/deploy-rust-app-on-vps-with-github-actions-and-docker/)
 - [Dockerizing a Rust API Project, SQL Database and pgAdmin](https://codevoweb.com/dockerizing-a-rust-api-project/)
 - [How to Write Unit Tests for Your Rust API](https://codevoweb.com/how-to-write-unit-tests-for-your-rust-api/)
 - [JWT Authentication and Authorization in Rust API using Actix-Web](https://codevoweb.com/jwt-authentication-and-authorization-in-rust-api/)
-- [How to Add Swagger UI, Redoc and RapiDoc to a Rust API](https://codevoweb.com/add-swagger-ui-redoc-and-rapidoc-to-a-rust-api/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
