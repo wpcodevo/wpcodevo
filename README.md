@@ -31,11 +31,11 @@
 ### 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Using React Query with Supabase in Next.js App Router](https://codevoweb.com/using-react-query-with-supabase-in-next-js-app-router/)
 - [How to Set Up and Use React Query in Next.js 14](https://codevoweb.com/how-to-set-up-and-use-react-query-in-next-js-14/)
 - [How to Deploy or Self-Host a Next.js Application](https://codevoweb.com/how-to-deploy-or-self-host-a-next-js-application/)
 - [Deploy Rust App on VPS with GitHub Actions and Docker](https://codevoweb.com/deploy-rust-app-on-vps-with-github-actions-and-docker/)
 - [Dockerizing a Rust API Project, SQL Database and pgAdmin](https://codevoweb.com/dockerizing-a-rust-api-project/)
-- [How to Write Unit Tests for Your Rust API](https://codevoweb.com/how-to-write-unit-tests-for-your-rust-api/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
