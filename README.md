@@ -31,11 +31,11 @@
 ### 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Implement Authentication with tRPC API in Next.js 14](https://codevoweb.com/implement-authentication-with-trpc-api-in-nextjs-14/)
 - [Using tRPC with Next.js 14, React Query and Prisma](https://codevoweb.com/using-trpc-with-nextjs-14-react-query-and-prisma/)
 - [Using React Query with Supabase in Next.js App Router](https://codevoweb.com/using-react-query-with-supabase-in-next-js-app-router/)
 - [How to Set Up and Use React Query in Next.js 14](https://codevoweb.com/how-to-set-up-and-use-react-query-in-next-js-14/)
 - [How to Deploy or Self-Host a Next.js Application](https://codevoweb.com/how-to-deploy-or-self-host-a-next-js-application/)
-- [Deploy Rust App on VPS with GitHub Actions and Docker](https://codevoweb.com/deploy-rust-app-on-vps-with-github-actions-and-docker/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
