@@ -31,11 +31,11 @@
 ### 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Setup and Use NextAuth.js in Next.js 14 App Directory](https://codevoweb.com/setup-and-use-nextauth-in-nextjs-14-app-directory/)
 - [Setup Google and GitHub OAuth with Supabase in Next.js 14](https://codevoweb.com/setup-google-github-oauth-with-supabase-in-nextjs-14/)
 - [Implement Authentication with Supabase in Next.js 14](https://codevoweb.com/implement-authentication-with-supabase-in-nextjs-14/)
 - [Implement Authentication with tRPC in Next.js 14](https://codevoweb.com/implement-authentication-with-trpc-in-nextjs-14/)
 - [Implement Authentication with tRPC API in Next.js 14](https://codevoweb.com/implement-authentication-with-trpc-api-in-nextjs-14/)
-- [Using tRPC with Next.js 14, React Query and Prisma](https://codevoweb.com/using-trpc-with-nextjs-14-react-query-and-prisma/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
