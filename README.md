@@ -31,11 +31,11 @@
 ### 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Perform CRUD Operations with the net/http Go Standard Library](https://codevoweb.com/perform-crud-operations-with-the-net-http-go-standard-library/)
 - [Setting up Drizzle ORM with NextAuth.js in Next.js 14](https://codevoweb.com/setting-up-drizzle-orm-with-nextauth-in-nextjs-14/)
 - [Set up Google and GitHub OAuth with NextAuth in Next.js 14](https://codevoweb.com/google-and-github-oauth-with-nextauth-in-nextjs-14/)
 - [Implement Authentication with NextAuth in Next.js 14](https://codevoweb.com/implement-authentication-with-nextauth-in-nextjs-14/)
 - [Setup and Use NextAuth.js in Next.js 14 App Directory](https://codevoweb.com/setup-and-use-nextauth-in-nextjs-14-app-directory/)
-- [Setup Google and GitHub OAuth with Supabase in Next.js 14](https://codevoweb.com/setup-google-github-oauth-with-supabase-in-nextjs-14/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
