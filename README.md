@@ -31,11 +31,11 @@
 ### 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Build a CRUD API HTTP Server in Rust](https://codevoweb.com/build-a-crud-api-http-server-in-rust/)
 - [Perform CRUD Operations with the net/http Go Standard Library](https://codevoweb.com/perform-crud-operations-with-the-net-http-go-standard-library/)
 - [Setting up Drizzle ORM with NextAuth.js in Next.js 14](https://codevoweb.com/setting-up-drizzle-orm-with-nextauth-in-nextjs-14/)
 - [Set up Google and GitHub OAuth with NextAuth in Next.js 14](https://codevoweb.com/google-and-github-oauth-with-nextauth-in-nextjs-14/)
 - [Implement Authentication with NextAuth in Next.js 14](https://codevoweb.com/implement-authentication-with-nextauth-in-nextjs-14/)
-- [Setup and Use NextAuth.js in Next.js 14 App Directory](https://codevoweb.com/setup-and-use-nextauth-in-nextjs-14-app-directory/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
