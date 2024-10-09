@@ -31,11 +31,11 @@
 ### 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Build a CRUD API with Axum and MongoDB in Rust](https://codevoweb.com/build-a-crud-api-with-axum-and-mongodb-in-rust/)
 - [Build a CRUD App in React/Next.js with Google Sheets as the Database](https://codevoweb.com/build-a-crud-app-in-react-next-js-with-google-sheets-as-the-database/)
 - [Build a CRUD API HTTP Server in Rust](https://codevoweb.com/build-a-crud-api-http-server-in-rust/)
 - [Perform CRUD Operations with the net/http Go Standard Library](https://codevoweb.com/perform-crud-operations-with-the-net-http-go-standard-library/)
 - [Setting up Drizzle ORM with NextAuth.js in Next.js 14](https://codevoweb.com/setting-up-drizzle-orm-with-nextauth-in-nextjs-14/)
-- [Set up Google and GitHub OAuth with NextAuth in Next.js 14](https://codevoweb.com/google-and-github-oauth-with-nextauth-in-nextjs-14/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
