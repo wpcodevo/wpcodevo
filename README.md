@@ -31,11 +31,11 @@
 ### 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Build a Rust MySQL CRUD API with Axum](https://codevoweb.com/build-a-rust-mysql-crud-api-with-axum/)
 - [Implement JSON Web Token &lpar;JWT&rpar; Authentication in Rust](https://codevoweb.com/implement-json-web-token-jwt-authentication-in-rust/)
 - [Build a CRUD API with Axum and MongoDB in Rust](https://codevoweb.com/build-a-crud-api-with-axum-and-mongodb-in-rust/)
 - [Build a CRUD App in React/Next.js with Google Sheets as the Database](https://codevoweb.com/build-a-crud-app-in-react-next-js-with-google-sheets-as-the-database/)
 - [Build a CRUD API HTTP Server in Rust](https://codevoweb.com/build-a-crud-api-http-server-in-rust/)
-- [Perform CRUD Operations with the net/http Go Standard Library](https://codevoweb.com/perform-crud-operations-with-the-net-http-go-standard-library/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
