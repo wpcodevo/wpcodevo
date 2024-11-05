@@ -31,11 +31,11 @@
 ### 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [CRUD Operations on PostgreSQL with a Golang REST API](https://codevoweb.com/crud-operations-on-postgresql-with-a-golang-rest-api/)
 - [How to Validate React.js Forms Without External Libraries](https://codevoweb.com/how-to-validate-react-js-forms-without-external-libraries/)
 - [How to Set Up Next.js 15 with NextAuth v5](https://codevoweb.com/how-to-set-up-next-js-15-with-nextauth-v5/)
 - [Build a Rust MySQL CRUD API with Axum](https://codevoweb.com/build-a-rust-mysql-crud-api-with-axum/)
 - [Implement JSON Web Token &lpar;JWT&rpar; Authentication in Rust](https://codevoweb.com/implement-json-web-token-jwt-authentication-in-rust/)
-- [Build a CRUD API with Axum and MongoDB in Rust](https://codevoweb.com/build-a-crud-api-with-axum-and-mongodb-in-rust/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
