@@ -31,11 +31,11 @@
 ### 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Use Shadcn UI and TanStack Router in React.js](https://codevoweb.com/how-to-use-shadcn-ui-and-tanstack-router-in-reactjs/)
 - [CRUD Operations on PostgreSQL using Django REST Framework](https://codevoweb.com/crud-operations-on-postgresql-using-django-rest-framework/)
 - [Build a CRUD Django REST API using Django REST Framework](https://codevoweb.com/build-a-crud-django-rest-api-using-django-rest-framework/)
 - [JSON Web Token Authentication and Authorization in Golang](https://codevoweb.com/json-web-token-authentication-and-authorization-in-golang/)
 - [CRUD Operations on PostgreSQL with a Golang REST API](https://codevoweb.com/crud-operations-on-postgresql-with-a-golang-rest-api/)
-- [How to Validate React.js Forms Without External Libraries](https://codevoweb.com/how-to-validate-react-js-forms-without-external-libraries/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
